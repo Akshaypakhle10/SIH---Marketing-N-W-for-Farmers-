@@ -1,0 +1,89 @@
+ nav {
+     background-color: #8265f7;
+ }
+
+ @media screen and (min-width: 527px) {
+     .login-box {
+         padding: 0 25 0;
+         border: solid #e4e2e2;
+         border-width: 1px;
+         border-radius: 6px;
+         box-shadow: 4px 1px 5px #bfbfbf;
+         margin: 24px 29% 44px;
+     }
+     .LandingPage-login-box {
+         padding: 0 0 0;
+         border: solid #e4e2e2;
+         border-width: 1px;
+         border-radius: 6px;
+         box-shadow: 4px 1px 5px #bfbfbf;
+         margin: 1 5% 137px;
+     }
+ }
+
+ .subnav-filters {
+     border-color: #E7E7E7;
+     color: #0d0d0d;
+     height: 74px;
+     padding-top: 6px;
+ }
+
+ .class-btn {
+     padding: 9% 0 9% 16% !important;
+ }
+
+ .btn-buyer {
+     background-color: #836bf7;
+     white-space: nowrap;
+ }
+
+ .btn-farmer {
+     background-color: #ed6464;
+     white-space: nowrap;
+ }
+
+ .select-wrapper input.select-dropdown {
+     border-bottom: 1px solid #0d0d0d;
+ }
+
+
+
+ .card-input {
+     border: solid 1px black;
+     height: 10%;
+ }
+
+ nav {
+     background-color: #5b456f !important;
+ }
+
+ .login-buttons .card {
+     height: 300px;
+     width: 73%;
+ }
+
+ .login-buttons .card img {
+     max-width: 100% !important;
+ }
+
+ .landing-page .card img {
+     max-width: 100% !important;
+ }
+
+ .mainPage .card {
+     width: 100%;
+ }
+
+ .mainPage .itemCard {
+     margin-left: 98px;
+ }
+
+ .collection {
+     padding-left: 50px !important;
+ }
+
+ .material-icons {
+     position: relative;
+     bottom: 0px;
+     top: 5px;
+ }

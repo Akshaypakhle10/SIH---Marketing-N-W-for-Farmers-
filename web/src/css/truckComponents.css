@@ -1,0 +1,21 @@
+#myBox{
+
+	background: #CFD8DC;
+	padding-left: 1.5%;
+	padding-right:1.5%;
+	padding-top: 2%;
+}
+li{
+	padding-left: 20%;
+}
+#myCheck{
+	padding: 2% 2% 2% 2%;
+	float: right;
+	width: 45%;
+	border-color: black;
+	border-width: 1px;
+}
+#myLever{
+	float:right;
+	width:70%;
+}

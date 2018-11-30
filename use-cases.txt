@@ -1,0 +1,11 @@
+Farmers
+
+1) Login using Phone no. and password
+2) Registration using Adhar Card ..generic form
+3) farmer can post produce by his location ,species
+
+
+
+Buyer 
+
+1) 

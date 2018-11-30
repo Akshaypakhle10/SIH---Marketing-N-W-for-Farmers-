@@ -1,0 +1,21 @@
+.landing-page {
+    padding: 48px 24px;
+    box-sizing: border-box;
+    background-color: rgba(197, 197, 197, 1);
+    overflow: hidden;
+}
+body{
+	background:white;
+}
+.row item-card{
+	font-family:sans-serif;
+}
+.card img {
+    max-width: 100%;
+}
+.landing-page .card {
+	height:337px !important;
+}
+.transaction-box .card-content{
+	color:black!important;
+}
